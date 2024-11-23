@@ -1,0 +1,4 @@
+Approach,Description,Require Ethical Rules or Not?,Learning Ability,Adaptation Ability,Interpretability
+Top-Down,Program the given ethical theory and principles,Yes,No,Weak,High
+Bottom-Up,Learn the general rules from individual cases,No,Strong,Strong,Low
+Hybrid,Combine bottom-up and top-down approaches,Yes,Strong,Strong,Medium
